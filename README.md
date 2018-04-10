@@ -9,7 +9,7 @@
 ## Details
 Input an image into the function **get_position(image, title)**,  you can get a window of this image. 
 
-<center> ![](readme_pics/1.png) </center>
+![](readme_pics/1.png)
 
 - For the first time of clicking the left button of your mouse, you can pin the top left point of the box.
 - For the second time of clicking the left button, you can pin the bottom right point of the box.
